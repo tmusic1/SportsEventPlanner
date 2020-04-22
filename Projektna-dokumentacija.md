@@ -10,18 +10,23 @@ Svrha ovog projekta je napraviti aplikaciju za organiziranje i planiranje sports
 1. Implementacija kreiranja, updateanja te brisanja sportskih događaja 
 1. Implementacija natjecateljskog stabla za određeno natjecanje
 1. Implementacija pregleda natjecatelja i timova
+1. Testiranje funkcionalnosti
+
  
 
 **Tomislav Musić**
 1. Implementacija prijave organizatora i natjecatelja u sustav
 1. Implementacija uvida u rezultate sportskog događaja
 1. Implementacija tražilice
+1. Testiranje funkcionalnosti
+ 
 
 
 **Dario Abramović**
 1. Implementacija registracije organizatora i natjecatelja u sustav
 1. Implementacija prijave natjecatelja u određeni sportski događaj
 1. Implementacija ispisa statistike sportskog događaja
+1. Testiranje funkcionalnosti
 
 
 ## Model razvoja
