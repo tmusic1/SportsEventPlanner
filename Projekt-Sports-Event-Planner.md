@@ -2,7 +2,10 @@
 
 Naziv projekta: Sports Event Planner
 
-Članovi tima:*  Antonio Oletić *Tomislav Musić *Dario Abramović
+Članovi tima:
+*Antonio Oletić
+*Tomislav Musić
+*Dario Abramović
 
 # Opis domene 
 
