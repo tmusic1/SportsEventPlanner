@@ -15,5 +15,5 @@ Naša aplikacija koristit će se za organiziranje sportskih događaja poput natj
 ## Sadržaj
 
 1. [Projektna dokumentacija](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/wiki/Projektna-dokumentacija)
-1. Tehnička dokumentacija
-1. Korisnička dokumentacija
+1. [Tehnička dokumentacija](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/wiki/Tehnička-dokumentacija)
+1. [Korisnička dokumentacija](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/wiki/Korisnička-dokumentacija)
