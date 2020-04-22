@@ -7,28 +7,22 @@ Svrha ovog projekta je napraviti aplikaciju za organiziranje i planiranje sports
 ## Specifikacija zaduženja članova tima
 
 **Antonio Oletić**
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
+1. Implementacija kreiranja, updateanja te brisanja sportskih događaja 
+1. Implementacija natjecateljskog stabla za određeno natjecanje
+1. Implementacija pregleda natjecatelja i timova
+ 
 
 **Tomislav Musić**
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
+1. Implementacija prijave organizatora i natjecatelja u sustav
+1. Implementacija uvida u rezultate sportskog događaja
+1. Implementacija tražilice
+
 
 **Dario Abramović**
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
+1. Implementacija registracije organizatora i natjecatelja u sustav
+1. Implementacija prijave natjecatelja u određeni sportski događaj
+1. Implementacija ispisa statistike sportskog događaja
+
 
 ## Model razvoja
 
