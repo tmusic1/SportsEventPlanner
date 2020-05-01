@@ -19,3 +19,10 @@ Referenca korištena za izradu ovog dokumenta:
 1. Karakteristike korisnika - korisnici i njihova prava korištenja
 1. Specifični zahtjevi - detaljan opis zahtjeva
 1. Opis dizajna sustava -dijagrami i pojedine funkcionalnosti te njihovi dijagrami
+
+# Opći opis
+
+## Funkcionalnosti aplikacije
+## Karakteristike korisnika
+# Specifični zahtjevi
+# Opis dizajna sustava
