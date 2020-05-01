@@ -65,6 +65,7 @@ Dizajn aplikacije SportsEventPlanner je vrlo jednostavan za korištenje. Postoji
 ## ERA model
 ## Funkcionalnost - Prijava u sustav
 ### Dijagram aktivnosti - Prijava u sustav
+![Dijagram aktivnosti Prijava](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/DijagramAktivnostiPrijava.png)
 ## Funkcionalnost - Registracija u sustav
 ### Dijagram aktivnosti - Registracija u sustav
 ## Funkcionalnost - CRUD događaja
