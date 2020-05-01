@@ -74,10 +74,12 @@ Dizajn aplikacije SportsEventPlanner je vrlo jednostavan za korištenje. Postoji
 ### Dijagram aktivnosti - Prijava u događaj
 ## Funkcionalnost - Kreiranje natjecateljskog stabla
 ### Dijagram aktivnosti - Kreiranje natjecateljskog stabla
+![](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/DijagramAktivnostiNatjecateljskoStablo.jpg)
 ## Funkcionalnost - Pregled rezultata
 ### Dijagram aktivnosti - Pregled rezultata
 ## Funkcionalnost - Pregled timova i natjecatelja
 ### Dijagram aktivnosti - Pregled timova i natjecatelja
+![](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/DijagramAktivnostiPregledTimovaNatjecatelja.jpg)
 ## Funkcionalnost - Ispis statistike
 ### Dijagram aktivnosti - Ispis statistike
 ## Funkcionalnost - Tražilica
