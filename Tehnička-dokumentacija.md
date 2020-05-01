@@ -12,3 +12,10 @@ Aplikacije se izdaje pod imenom "SportsPlannerApp". Namijenjena je organizatorim
 ## Reference
 Referenca korištena za izradu ovog dokumenta: 
 1. IEEE Computer Society, IEEE Recommended Practice for Software Requirements Specifications. Dostupno na Moodle sustavu – kolegij Programsko inženjerstvo
+## U poglavljima koja slijede opisano je sljedeće:
+
+1. Opći opis 
+1. Funkcionalnosti aplikacije - sumirani opis funkcionalnosti koje aplikacija pruža
+1. Karakteristike korisnika - korisnici i njihova prava korištenja
+1. Specifični zahtjevi - detaljan opis zahtjeva
+1. Opis dizajna sustava -dijagrami i pojedine funkcionalnosti te njihovi dijagrami
