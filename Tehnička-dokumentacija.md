@@ -90,5 +90,6 @@ Korisnik pritisne na gumb "pregled timova i natjecanja" u izborniku. Otvara se k
 ### Dijagram aktivnosti - Ispis statistike
 ## Funkcionalnost - Tražilica
 ### Dijagram aktivnosti - Tražilica
+![Dijagram aktivnosti Tražilica](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/DijagramAktivnostiTrazilica.png)
 
 
