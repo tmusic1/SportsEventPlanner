@@ -47,9 +47,17 @@ SportsPlannerApp je desktop aplikacija za Windows sustave na x86 arhitekturi.
  
 # 3. Specifični zahtjevi
 ## Zahtjevi performansi
+Kada je dostupan server, baza podataka i stalna internetska veza, aplikacija radi kao što bi trebala. Jedini problemi koji bi se mogli javiti je kada korisnik ima nestabilnu internetsku vezu.
 ## Logički zahtjevi nad bazom podataka
+ERA model je prikazan u "Opisu dizajna sustava".
 ## Ograničenja dizajna
+Dizajn aplikacije SportsEventPlanner je vrlo jednostavan za korištenje. Postoji glaavna forma na kojoj su dodane user kontrole na lijevoj strani glavne forne. Ovisno o tome što korisnik želi otvoriti, klikom na određeni gumb u kontroli otvara se novi Tab.
 ## Obilježja aplikacije
+1. Pouzdanost - 
+1. Dostupnost - 
+1. Sigurnost -
+1. Održavanje -
+1. Pokretnost -
 
 # 4. Opis dizajna sustava
 ## Use-Case Dijagram
@@ -61,6 +69,7 @@ SportsPlannerApp je desktop aplikacija za Windows sustave na x86 arhitekturi.
 ### Dijagram aktivnosti - Registracija u sustav
 ## Funkcionalnost - CRUD događaja
 ### Dijagram aktivnosti - CRUD događaja
+
 ## Funkcionalnost - Prijava u događaj
 ### Dijagram aktivnosti - Prijava u događaj
 ## Funkcionalnost - Kreiranje natjecateljskog stabla
