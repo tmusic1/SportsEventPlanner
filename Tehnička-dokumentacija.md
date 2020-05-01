@@ -74,11 +74,14 @@ Organizator događaja pritisne na gumb "događaji"u izborniku. Otvara se kontrol
 ## Funkcionalnost - Prijava u događaj
 ### Dijagram aktivnosti - Prijava u događaj
 ## Funkcionalnost - Kreiranje natjecateljskog stabla
+Organizator događaja pritisne na gumb "natjecateljsko stablo". Otvara se kontrola natjecateljsko stablo. Aplikacija provjera otvara li kontrolu natjecatelj ili organizator. Ukoliko kontrolu otvara organizator, on ima dvije mogućnosti.
+Može kreirati stablo pritiskom na gumb "kreiranje" te može pregledati stablo za neki događaj. Natjecatelj može samo pregledati stablo za neki događaj. Organizator označuje događaj za koji želi kreirati stablo u ComboBoxu. Pritiskom na gumb "kreiranje" dohvaćuje se željeni događaj iz baze, dohvaćuju se timovi iz baze za traženi događaj te se kreira stablo natjecanja s nazivima timova. Utakmice kreirane natjecateljskim stablom zapisuju se u tablicu utakmice. Kreirane utakmice prikazuju se u dataGridu utakmice. Ukoliko organizator ili natjecatelj žele vidjeti neko stablo, odabiru događaj te pritiskom na gumb "pregled" dohvaćuje se željeni događaj iz baze, dohvaćuju se utakmice iz baze te se utakmice zadane natjecateljskim stablom za željeni događaj prikazuju u dataGriduUtakmice. 
 ### Dijagram aktivnosti - Kreiranje natjecateljskog stabla
 ![](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/DijagramAktivnostiNatjecateljskoStablo.vpd.jpg)
 ## Funkcionalnost - Pregled rezultata
 ### Dijagram aktivnosti - Pregled rezultata
 ## Funkcionalnost - Pregled timova i natjecatelja
+Korisnik pritisne na gumb "pregled timova i natjecanja" u izborniku. Otvara se kontrola pregled timova i natjecanja. Prikazuje se ComboBox u kojem su događaji. Odabirom događaja. Dohvaćuju se svi timovi iz baze koji su u tom događaju te se učitavaju u dataGrid Timovi. Korisnik duplim klikom na red u dataGridu može vidjeti sve natjecatelje koji su u tom timu.  
 ### Dijagram aktivnosti - Pregled timova i natjecatelja
 ![](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/DijagramAktivnostiPregledTimovaNatjecatelja.vpd.jpg)
 ## Funkcionalnost - Ispis statistike
