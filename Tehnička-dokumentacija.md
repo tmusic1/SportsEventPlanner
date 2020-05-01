@@ -81,6 +81,7 @@ Može kreirati stablo pritiskom na gumb "kreiranje" te može pregledati stablo z
 ![](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/DijagramAktivnostiNatjecateljskoStablo.vpd.jpg)
 ## Funkcionalnost - Pregled rezultata
 ### Dijagram aktivnosti - Pregled rezultata
+![Dijagram aktivnosti Rezultati](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/DijagramAktivnostiRezultati.png)
 ## Funkcionalnost - Pregled timova i natjecatelja
 Korisnik pritisne na gumb "pregled timova i natjecanja" u izborniku. Otvara se kontrola pregled timova i natjecanja. Prikazuje se ComboBox u kojem su događaji. Odabirom događaja. Dohvaćuju se svi timovi iz baze koji su u tom događaju te se učitavaju u dataGrid Timovi. Korisnik duplim klikom na red u dataGridu može vidjeti sve natjecatelje koji su u tom timu.  
 ### Dijagram aktivnosti - Pregled timova i natjecatelja
