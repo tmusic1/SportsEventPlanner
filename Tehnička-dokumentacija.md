@@ -69,7 +69,7 @@ Dizajn aplikacije SportsEventPlanner je vrlo jednostavan za korištenje. Postoji
 ### Dijagram aktivnosti - Registracija u sustav
 ## Funkcionalnost - CRUD događaja
 ### Dijagram aktivnosti - CRUD događaja
-
+![](Dijagrami/DijagramAktivnostiDogadajiFinal.jpg)
 ## Funkcionalnost - Prijava u događaj
 ### Dijagram aktivnosti - Prijava u događaj
 ## Funkcionalnost - Kreiranje natjecateljskog stabla
