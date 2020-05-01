@@ -53,11 +53,11 @@ ERA model je prikazan u "Opisu dizajna sustava".
 ## Ograničenja dizajna
 Dizajn aplikacije SportsEventPlanner je vrlo jednostavan za korištenje. Postoji glaavna forma na kojoj su dodane user kontrole na lijevoj strani glavne forne. Ovisno o tome što korisnik želi otvoriti, klikom na određeni gumb u kontroli otvara se novi Tab.
 ## Obilježja aplikacije
-1. Pouzdanost - 
-1. Dostupnost - 
-1. Sigurnost -
-1. Održavanje -
-1. Pokretnost -
+1. Pouzdanost - Svi članovi tima koji su kreirali aplikaciju, nakon izrade, detaljno ju testiraju te provjeravaju. Korisnik može otkriti nove pogreške koje prilikom testiranja nisu uočene i treba ih javiti da bi se one otklonile.
+1. Dostupnost - Aplikacija je dostupna ako postoji internetska veza i ako su server te baza podataka dostupni. Aplikacije također nije dostupna za vrijeme redovnog održavanja, ali to je dogovoreno sa korisnikom. 
+1. Sigurnost -  Neovlašteno korištenje aplikacije ne postoji, zbog toga što je to rješeno već kod prijave. Svaka uloga ima drugačija prava te time nema neovlaštenog korištenja. 
+1. Održavanje - Ne postoji velika potreba za održavanjem aplikacije. Ispravak eventualnih greški i problema će korisnik dobiti u obliku nove verzije aplikacije. Ukoliko korisnik zatraži, mogu se dodati novi sportovi. Novo dodavanje  funcionalnosti se može napraviti prema dogovoru sa korisnikom.
+1. Pokretnost - Aplikacija je samo dostupna na svim Windows operacijskim sustavima. Aplikacija mora biti instalirana na računalo korisnika. 
 
 # 4. Opis dizajna sustava
 ## Use-Case Dijagram
