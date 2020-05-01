@@ -91,6 +91,7 @@ Korisnik pritisne na gumb "pregled timova i natjecanja" u izborniku. Otvara se k
 ## Funkcionalnost - Ispis statistike
 ### Dijagram aktivnosti - Ispis statistike
 ## Funkcionalnost - Tražilica
+U gornjem lijevom kutu aplikacije nalazi se tražilica koja omogućuje korisniku pregled ključnih riječi u aplikaciji (za nazive timova, događaja, natjecatelja i sportova). Klikom na tražilicu korisnik unosi riječ te pritišće tipku "Enter". Nakon toga aplikacija komunicira s bazom podataka te provjerava nalazi li se unesena riječ u nekoj od navedenih tablica. Ukoliko riječ nije pronađena, ispisuje se poruka o neuspješnom pokušaju pretraživanja riječi. Ako je riječ pronađena u bazi podataka otvara se nova kontrola za prikaz podataka te se u nju učitavaju svi podaci koji pripadaju uz tu riječ
 ### Dijagram aktivnosti - Tražilica
 ![Dijagram aktivnosti Tražilica](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/DijagramAktivnostiTrazilica.png)
 
