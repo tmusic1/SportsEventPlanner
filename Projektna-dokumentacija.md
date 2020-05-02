@@ -30,6 +30,7 @@ Svrha ovog projekta je napraviti aplikaciju za organiziranje i planiranje sports
 ## Model razvoja
 
 Odabrani model razvoja je slijedni (vodopadni) model razvoja. Naš vodopadni model razvoja ima pet faza:
+![Vodopadni model](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/VodopadniModel.png)
 
 ## Plan projekta prema terminima
 
