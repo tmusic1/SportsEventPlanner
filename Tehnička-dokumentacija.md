@@ -72,7 +72,7 @@ Nakon što korisnik pokrene aplikaciju, prva što mora učiniti je prijaviti se 
 ## Funkcionalnost - CRUD događaja
 Organizator događaja pritisne na gumb "događaji"u izborniku. Otvara se kontrola događaja. Učitavaju se svi događaji iz baze koje je prijavljeni organizator događaja te se prikazuju događaji koje je prije kreirao (ukoliko ih ima) u datagridDogadaji. Organizator događaja potom odabire željenu radnju. Ukoliko organizator želi ažurirati neki događaj, označuje željeni događaj, taj događaj se dohvaćuje iz baze. Klikom na gumb "ažuriraj" se inicijalizira kontrola za unos te upisuje naziv događaja, unosi datum početka te datum završetka događaja, unosi minimalni te maksimalni broj timova te nakon toga unosi broj članova u timu. Kada organizator upiše sve podatke može ažurirati prije označeni događaj u tablici klikom na gumb "spremi" ili odustati klikom na gumb "odustani". Ukoliko organizator događaja želi unijeti događaj, klikom na gumb "unos" se isto tako otvara kontrola za unos. Unosi naziv događaja, unosi datum početka te datum završetka događaja, unosi minimalni te maksimalni broj timova te nakon toga unosi broj članova u timu. Kada organizator upiše sve podatke može spremiti novi događaj u tablicu klikom na gumb "spremi" ili odustati klikom na gumb "odustani".
 ### Dijagram aktivnosti - CRUD događaja
-![](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/DijagramAktivnostiDogadajiFinal.jpg)
+![](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/DijagramAktivnostiDogadajiFinal.vpd.jpg)
 ## Funkcionalnost - Prijava u događaj
 ### Dijagram aktivnosti - Prijava u događaj
 ## Funkcionalnost - Kreiranje natjecateljskog stabla
