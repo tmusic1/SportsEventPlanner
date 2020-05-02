@@ -40,10 +40,12 @@ Nakon što smo okupili tim za izradu projekta te između sebe podijelili aktivno
 ## Budžet i proračun projekta
 Na našem projektu rade 3 člana tima, te svaki od članova posjeduje svoje računalo. Satnicu za izradu na projektu postavili smo na 65kn za svakog člana tima, te smo izračunali da će troškovi računala iznositi otprilike 6kn po korištenju. Ukupni troškovi na plaće i računala iznose 49.800,00kn.
 
+![trosak](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/Trosak.PNG)
+
 
 
 Pregled korištenja naših resursa:
-
+![](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/Resursi.PNG)
 
 
 ## Ponuda
