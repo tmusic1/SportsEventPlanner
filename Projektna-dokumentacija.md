@@ -30,7 +30,8 @@ Svrha ovog projekta je napraviti aplikaciju za organiziranje i planiranje sports
 ## Model razvoja
 
 Odabrani model razvoja je slijedni (vodopadni) model razvoja. Naš vodopadni model razvoja ima pet faza prikazanih na slici. Slijedni model razvoja odabran je iz razloga što je jednostavan te se tijekom izvedbe zahtjevi ne mijenjaju, ali veliki problem kod slijednog modela je taj što je teško ispraviti pogreške ukoliko ih naknadno pronađemo ili dodati nove zahtjeve.
-[Vodopadni model](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/VodopadniModel.png)
+
+![vodopadni model](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/VodopadniModel.png)
 
 ## Plan projekta prema terminima
 
