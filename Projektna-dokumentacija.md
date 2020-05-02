@@ -34,6 +34,7 @@ Odabrani model razvoja je slijedni (vodopadni) model razvoja. Naš slijedni mode
 ![vodopadni model](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/VodopadniModel.png)
 
 ## Plan projekta prema terminima
+Nakon što smo okupili tim za izradu projekta te između sebe podijelili aktivnosti, započeli smo s izradom projekta na dan 3.4.2020. Upravo tada počela je naša prva faza izrade projekta gdje smo odredili specifikacije zahtjeva korisnika te analizu istih. Nakon Specifikacije zahtjeva i analize, slijedi faza dizajna i modeliranja koja je započela 13.4.2020. te smo tijekom te faze izradili ERA model, use case dijagram, dijagram klasa te dijagrame aktivnosti. Nakon faze dizajna i modeliranja slijedi faza implementacije s kojom smo započeli 22.4.2020 kada smo krenuli s izradom grafičkom sučelja za našu aplikaciju. Tijekom ove faze implementirati ćemo sve funkcionalnosti koje smo naveli kao sastavni dio naše aplikacije. Procijenili smo da ćemo se implementacijom baviti do 22.5.2020. te nakon toga slijedi faza testiranja koja bi započela 25.5.2020. Prilikom ove faze testirali bismo prvo pojedine funkcionalnosti, pa nakon toga cijelu aplikaciju. Nakon testiranja napravit ćemo i korisničku dokumentaciju nakon koje bi naš projekt završio 3.6.2020.
 
 ![termini](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/Termini.PNG)
 ## Budžet i proračun projekta
