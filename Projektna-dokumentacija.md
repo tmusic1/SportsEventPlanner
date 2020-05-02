@@ -35,6 +35,7 @@ Odabrani model razvoja je slijedni (vodopadni) model razvoja. Naš slijedni mode
 
 ## Plan projekta prema terminima
 
+![termini](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/Termini.PNG)
 ## Budžet i proračun projekta
 
 ## Ponuda
