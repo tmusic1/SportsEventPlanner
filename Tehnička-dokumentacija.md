@@ -66,7 +66,7 @@ Dizajn aplikacije SportsEventPlanner je vrlo jednostavan za korištenje. Postoji
 ## Funkcionalnost - Prijava u sustav
 Nakon što korisnik pokrene aplikaciju, prva što mora učiniti je prijaviti se u nju. Zbog toga nakon otvaranja aplikacije odmah izlazi forma za prijavu. U formi za prijavu, korisnik mora unijeti svoje korisničke podatke (korisničko ime, lozinka) te nakon toga mora kliknuti na gumb "Prijavi se". Nakon što korisnik ispuni cijelu formu za prijavu, provjerava se ispravnost unesenih podataka (RegEx). Ukoliko podaci nisu ispravni, aplikacija izbacuje poruku o neispravnosti unosa, te resetira sve prijašnje podatke koje je korisnik upisao. Ukoliko je unos bio ispravan, tada aplikacija komunicira s bazom podataka te traži od nje postoji li registrirani korisnik s upisanim korisničkim podacima. Ukoliko korisnik ne postoji, tada aplikacija ponovo ispisuje pogrešku za neuspješnu prijavu te ponovo resetira polja za unos podataka. Ukoliko u bazi podataka postoji korisnik s upisanim podacima, tada se provjerava koju ulogu ima taj korisnik (Admin, organizator, natjecatelj) te se forma za prijavu gasi, a otvara se glavna forma koja je prilagođena za tog korisnika.
 ### Dijagram aktivnosti - Prijava u sustav
-![Dijagram aktivnosti Prijava](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/DijagramAktivnostiPrijava.png)
+![Dijagram aktivnosti Prijava](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/DijagramAktivnostiPrijavaTMusic.png)
 ## Funkcionalnost - Registracija u sustav
 ### Dijagram aktivnosti - Registracija u sustav
 ## Funkcionalnost - CRUD događaja
