@@ -25,11 +25,11 @@ Referenca korištena za izradu ovog dokumenta:
 ## Funkcionalnosti aplikacije
 1. Prijava u sustav
 1. Registracija u sustav
-1. CRUD događaja - Organizator događaja otvara Tab Događaji. On klikom na gumb "Unos" može kreirati, "Promijeni" može promijeniti te "Izbriši" obrisati sportski događaj. Klikom na gumb "Spremi" podatci se šalju i zapisuju u bazu. 
+1. CRUD događaja - Organizator događaja otvara kontrolu Događaji. On klikom na gumb "Unos" može kreirati, "Promijeni" može promijeniti te "Izbriši" obrisati sportski događaj. Klikom na gumb "Spremi" podatci se šalju i zapisuju u bazu. 
 1. Prijava u događaj 
-1. Kreiranje natjecateljskog stabla - Organizator događaja otvara Tab Natjecateljsko stablo. On može kreirati natjecateljsko stablo za odabrani događaj. Organizator odabire događaj, nakon toga klikom na gumb "Kreiraj" kreira utakmice za događaj u koji su prijavljeni timovi. Utakmice se zatim spremaju u bazu u tablicu utakmice.
+1. Kreiranje natjecateljskog stabla - Organizator događaja otvara kontrolu Natjecateljsko stablo. On može kreirati natjecateljsko stablo za odabrani događaj. Organizator odabire događaj, nakon toga klikom na gumb "Kreiraj" kreira utakmice za događaj u koji su prijavljeni timovi. Utakmice se zatim spremaju u bazu u tablicu utakmice.
 1. Pregled rezultata
-1. Pregled timova i natjecatelja - Bilo koji korisnik otvara Tab Pregled timova i natjecanja. Korisnik odabire događaj te mu se za odabrani događaj prikazuju timovi i natjecatelji.
+1. Pregled timova i natjecatelja - Bilo koji korisnik otvara kontrolu Pregled timova i natjecanja. Korisnik odabire događaj te mu se za odabrani događaj prikazuju timovi i natjecatelji.
 1. Ispis statistike
 1. Tražilica
 
