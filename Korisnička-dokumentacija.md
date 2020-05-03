@@ -16,3 +16,22 @@ Nakon što ste se uspješno prijavili u aplikaciju, otvara se glavna forma. Na l
 1. Pregled timova i natjecanja
 1. Statistika
 
+U donjem lijevom kutu nalazi se gumb "Odjavi se" koji Vas odjavljuje iz aplikacije nakon što kliknete na njeg. Ako želite ponovo koristiti aplikaciju, nakon odjave morate se ponovo prijaviti.
+
+### 3.1 Događaji
+
+Ukoliko ste na glavnoj formi kliknuli na gumb "Događaji", otvara Vam se kontrola "Događaji". Unutar kontrole moguće je dodavati nove događaje, ažurirati već dodane događaje te obrisati događaje. Ispod gumbova nalazi se popis svih događaja.  Ukoliko želite dodati novi događaj potrebno je kliknuti na gumb "Dodaj događaj". Nakon što ste kliknuli na taj gumb, otvara Vam se nova forma koju je potrebno ispuniti. U formu je potrebno upisati ime događaja, datum početka, datum završetka, minimalni broj timova, maksimalni broj timova, broj članova u timu te iz padajućeg izbornika odabrati vrstu sporta za taj događaj. Ukoliko ste upisali sve podatke, potrebno je kliknuti na gumb "Spremi" te se uneseni događaj sprema u aplikaciju. 
+
+Nakon što odaberete neki događaj i kliknete na gumb "Ažuriraj događaj" otvara se ista forma kao i za dodavanje događaja. Također je potrebno upisati sve informacije vezane za događaj koje će se kasnije zamijeniti sa informacijama koje su unesene prije. Klikom na gumb "Spremi", spremiti ćete navedene promjene. 
+
+Ukoliko želite obrisati jedan od događaja, potrebno je odabrati događaj te kliknuti na gumb "Obriši događaj"
+
+### 3.2 Sportovi
+
+Ako ste na glavnoj formi odabrali gumb "Sportovi" , otvara Vam se nova kontrola koja sadrži popis svih sportova za koje je moguće kreirati događaje. Sportovi su unaprijed određeni te samo admin može dodati i mijenjati popis događaja
+
+### 3.3 Natjecateljsko stablo
+
+Prilikom klika na gumb "Natjecateljsko stablo" u glavnoj formi, otvara se kontrola Natjecateljsko stablo. Ovdje možete izraditi ždrijeb za unseseni događaj. Događaj se odabire tako da iz padajućeg izbornika odaberete naziv događaja te kliknete na gumb "Kreiranje najtecateljskog stabla". Nakon toga kreira se ždrijeb. Ukoliko ždrijeb za navedeni događaj već postoji, klikom na gumb "Pregled natjecateljskog stabla" možete pogledati kako izgleda ždrijeb za odabrani događaj. Ispod ždrijeba moguće je dodavati, promijeniti te izbrisati rezultate utakmice.
+
+ Odabirom utakmice iz ždrijeba te klikom na gumb "Dodaj rezultat" otvara se forma za unos rezultata. U otvorenoj formi potrebno je upisati broj poena za tim 1 te broj poena za tim 2 te klikom na gumb "Spremi" rezultat se unosi u aplikaciju. Ukoliko želite ažurirati već uneseni rezultat potrebno je kliknuti na gumb "Promijeni rezultat" te se otvara ista forma u kojoj ponovo unosite željeni rezultat. Rezultat je moguće obrisati tako što morate odabrati utakmicu te kliknuti na gumb "Izbriši rezultat".
