@@ -31,7 +31,7 @@ Referenca korištena za izradu ovog dokumenta:
 1. Pregled i unos rezultata - Ulaskom u kontrolu Natjecateljsko stablo, organizator ima mogućnost unosa rezultata te ažuriranje i brisanje istih.
 1. Pregled timova i natjecatelja - Bilo koji korisnik otvara kontrolu Pregled timova i natjecanja. Korisnik odabire događaj te mu se za odabrani događaj prikazuju timovi i natjecatelji.
 1. Ispis statistike
-1. Tražilica
+1. Tražilica - u gornjem desnom kutu aplikacije, na kontroli Događaji, postoji text box koji omogućuje unos riječi te pritiskom tipke Enter pronalazi se ključna riječ (naziv tima, sporta, natjecatelja ili događaja) i ispisuju se informacije iste.
 
 
 
