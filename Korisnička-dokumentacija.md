@@ -34,4 +34,25 @@ Ako ste na glavnoj formi odabrali gumb "Sportovi" , otvara Vam se nova kontrola 
 
 Prilikom klika na gumb "Natjecateljsko stablo" u glavnoj formi, otvara se kontrola Natjecateljsko stablo. Ovdje možete izraditi ždrijeb za unseseni događaj. Događaj se odabire tako da iz padajućeg izbornika odaberete naziv događaja te kliknete na gumb "Kreiranje najtecateljskog stabla". Nakon toga kreira se ždrijeb. Ukoliko ždrijeb za navedeni događaj već postoji, klikom na gumb "Pregled natjecateljskog stabla" možete pogledati kako izgleda ždrijeb za odabrani događaj. Ispod ždrijeba moguće je dodavati, promijeniti te izbrisati rezultate utakmice.
 
- Odabirom utakmice iz ždrijeba te klikom na gumb "Dodaj rezultat" otvara se forma za unos rezultata. U otvorenoj formi potrebno je upisati broj poena za tim 1 te broj poena za tim 2 te klikom na gumb "Spremi" rezultat se unosi u aplikaciju. Ukoliko želite ažurirati već uneseni rezultat potrebno je kliknuti na gumb "Promijeni rezultat" te se otvara ista forma u kojoj ponovo unosite željeni rezultat. Rezultat je moguće obrisati tako što morate odabrati utakmicu te kliknuti na gumb "Izbriši rezultat".
+ Odabirom utakmice iz ždrijeba te klikom na gumb "Dodaj rezultat" otvara se forma za unos rezultata. U otvorenoj formi potrebno je upisati broj poena za tim 1 te broj poena za tim 2 te klikom na gumb "Spremi" rezultat se unosi u aplikaciju.
+
+ Ukoliko želite ažurirati već uneseni rezultat potrebno je kliknuti na gumb "Promijeni rezultat" te se otvara ista forma u kojoj ponovo unosite željeni rezultat. 
+
+Rezultat je moguće obrisati tako što morate odabrati utakmicu te kliknuti na gumb "Izbriši rezultat".
+
+### 3.4 Prijava u natjecanje
+
+Ukoliko se želite prijaviti u natjecanje, na glavnoj formi je potrebno kliknuti na gumb "Prijava u natjecanje". Tada Vam se otvara kontrola za prijavu u natjecanje gdje morate iz padajućeg izbornika odabrati željeni događaj. Ukoliko se radi o timskom sportu tada je omogućen gumb "Dodaj tim" te klikom na njega otvara se nova forma za unos timova. U formi je potrebno napisati ime tima, broj igrača te kontakt broj. Pošto se radi o timskom sportu, u ovoj formi je potrebno kliknuti i na gumb "Dodaj natjecatelja" kako biste dodali i natjecatelje koji se nalaze u tom timu. Klikom na gumb "Spremi", prijava se izvršava.
+
+Ukoliko ste odabrali događaj u kojem se igra pojedinačni sport tada je gumb "Dodaj tim" blokiran te je moguće kliknuti samo na gumb "Dodaj natjecatelja". Klikom na taj gumb otvara se forma u kojoj korisnik mora napisati ime, prezime, OIB, E-mail, datum rođenja te kontakt telefon. Klikom na gumb "Spremi" korisnik se prijavljuje u natjecanje.
+
+### 3.5 Pregled timova i natjecatelja
+
+Ukoliko želite vidjeti prijavljene timove i natjecatelje, na glavnoj formi potrebno je kliknuti na gumb "Pregled timova i natjecatelja". Nakon toga otvara se kontrola gdje možete vidjeti sve prijavljene timove i natjecatelje nakon što iz padajućeg izbornika izaberete željeni događaj. Na lijevoj strani prikazani su timovi, a na desnoj strani natjecatelji.
+
+### 3.6 Statistika
+
+Ukoliko  imate kakvo pitanje slobodno nam se javite putem E-maila
+1. aoletic@foi.hr
+1. tmusic@foi.hr
+1. dabramovic@foi.hr
