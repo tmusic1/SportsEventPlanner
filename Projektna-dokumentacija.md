@@ -5,6 +5,8 @@ Svrha ovog projekta je napraviti aplikaciju za organiziranje i planiranje sports
 ## Specifikacija zaduženja članova tima
 
 **Antonio Oletić**
+1. Izrada dijagrama klasa
+1. Izrada ERA modela
 1. Implementacija kreiranja, updateanja te brisanja sportskih događaja 
 1. Implementacija natjecateljskog stabla za određeno natjecanje
 1. Implementacija pregleda natjecatelja i timova
@@ -13,6 +15,8 @@ Svrha ovog projekta je napraviti aplikaciju za organiziranje i planiranje sports
  
 
 **Tomislav Musić**
+1. Izrada dijagrama klasa
+1. Izrada ERA modela
 1. Implementacija prijave organizatora i natjecatelja u sustav
 1. Implementacija uvida u rezultate sportskog događaja
 1. Implementacija tražilice
@@ -21,6 +25,8 @@ Svrha ovog projekta je napraviti aplikaciju za organiziranje i planiranje sports
 
 
 **Dario Abramović**
+1. Izrada Use-Case dijagrama
+1. Izrada ponude
 1. Implementacija registracije organizatora i natjecatelja u sustav
 1. Implementacija prijave natjecatelja u određeni sportski događaj
 1. Implementacija ispisa statistike sportskog događaja
