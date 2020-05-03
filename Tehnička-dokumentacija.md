@@ -83,7 +83,9 @@ Organizator događaja pritisne na gumb "događaji"u izborniku. Otvara se kontrol
 ### Dijagram aktivnosti - CRUD događaja
 ![](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/DijagramAktivnostiDogadajiFinal.vpd.jpg)
 ## Funkcionalnost - Prijava u događaj
+Na dijagramu možemo vidjeti da za prijavu u natjecanje osoba mora biti registrirana u aplikaciju i tek onda može otvoriti obrazac za prijavu na natjecanje. Korisnik prvo odabire željeno natjecanje u koje se želi prijaviti, nakon toga otvara se obrazac u kojem se ispunjavaju određene informacije koje organizator zahtjeva da se popune. Korisnik može ažurirati i obrisati prijavu i naknadno. Organizator ima mogućnost poništavanja prijave. Prijava kada je ispunjena sprema se u bazu podataka i popunjava tablicu gdje se spremaju prijave.
 ### Dijagram aktivnosti - Prijava u događaj
+![](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/DijagramAktivnostiPrijava2.png)
 ## Funkcionalnost - Kreiranje natjecateljskog stabla
 Organizator događaja pritisne na gumb "natjecateljsko stablo". Otvara se kontrola natjecateljsko stablo. Aplikacija provjera otvara li kontrolu natjecatelj ili organizator. Ukoliko kontrolu otvara organizator, on ima dvije mogućnosti.
 Može kreirati stablo pritiskom na gumb "kreiranje" te može pregledati stablo za neki događaj. Natjecatelj može samo pregledati stablo za neki događaj. Organizator označuje događaj za koji želi kreirati stablo u ComboBoxu. Pritiskom na gumb "kreiranje" dohvaćuje se željeni događaj iz baze, dohvaćuju se timovi iz baze za traženi događaj te se kreira stablo natjecanja s nazivima timova. Utakmice kreirane natjecateljskim stablom zapisuju se u tablicu utakmice. Kreirane utakmice prikazuju se u dataGridu utakmice. Ukoliko organizator ili natjecatelj žele vidjeti neko stablo, odabiru događaj te pritiskom na gumb "pregled" dohvaćuje se željeni događaj iz baze, dohvaćuju se utakmice iz baze te se utakmice zadane natjecateljskim stablom za željeni događaj prikazuju u dataGriduUtakmice. 
@@ -98,7 +100,9 @@ Korisnik pritisne na gumb "pregled timova i natjecanja" u izborniku. Otvara se k
 ### Dijagram aktivnosti - Pregled timova i natjecatelja
 ![](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/DijagramAktivnostiPregledTimovaNatjecatelja.vpd.jpg)
 ## Funkcionalnost - Ispis statistike
+Kod statistike potrebno je odabrati točno određeno natjecanje za koje želimo pregledati statistiku. Imamo dvije mogućnosti gledanja statistike. prvi način pojedinačno po igračima i drugi način pojedinačno po timovima. U tom prikazu se prikazuje statistika svakog člana određenog tima koji u tom trenutku pregledavamo.
 ### Dijagram aktivnosti - Ispis statistike
+![](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/DijagramAktivnostiStatistika2.png)
 ## Funkcionalnost - Tražilica
 U gornjem lijevom kutu aplikacije nalazi se tražilica koja omogućuje korisniku pregled ključnih riječi u aplikaciji (za nazive timova, događaja, natjecatelja i sportova). Klikom na tražilicu korisnik unosi riječ te pritišće tipku "Enter". Nakon toga aplikacija komunicira s bazom podataka te provjerava nalazi li se unesena riječ u nekoj od navedenih tablica. Ukoliko riječ nije pronađena, ispisuje se poruka o neuspješnom pokušaju pretraživanja riječi. Ako je riječ pronađena u bazi podataka otvara se nova kontrola za prikaz podataka te se u nju učitavaju svi podaci koji pripadaju uz tu riječ
 ### Dijagram aktivnosti - Tražilica
