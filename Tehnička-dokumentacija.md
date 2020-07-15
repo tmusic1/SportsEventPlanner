@@ -39,7 +39,7 @@ Referenca korištena za izradu ovog dokumenta:
 Aplikaciju mogu koristiti:
 1. Administrator - osoba odgovorna za uređivanje popisa sportova i za davanje pristupa, uz to što može sve što može i organizator događaja
 1. Organizator događaja - osoba odgovorna za kreiranje događaja, kreiranje natjecateljskog stabla, upisivanje rezultata, uz to može i sve što može i natjecatelj
-1. Voditelj tima - osoba koja prijavljuje tim kod grupnih natjecanja te prijavljuje sebe kod pojedinačnih natjecanja. Može vidjeti rezultate, natjecateljsko stablo te ostale timove i natjecatelje. 
+1. Voditelj tima - osoba koja prijavljuje tim kod grupnih natjecanja te prijavljuje natjecatelje. Može vidjeti rezultate, natjecateljsko stablo te ostale timove i natjecatelje. 
 ## Ograničenja
 Ograničenja aplikacije vezana su uz dostupnost servera i baze podataka. Server stalno mora biti aktivan te za bazu podataka je stalno potrebna internetska veza.
 ## Pretpostavke
