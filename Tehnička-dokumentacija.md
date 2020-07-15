@@ -6,8 +6,8 @@ Tehnička dokumentacija predstavlja detaljnu specifikaciju korisničkih zahtjeva
 ## Svrha
 Svrha ovog dokumenta je pružiti naručitelju i programerima detaljne informacije o izradi krajnjeg proizvoda. Dokumentacija je vrlo bitna za daljnji razvoj, a uključuje opis aplikacije za vođenje sportskih događaja, specifikaciju korisničkih zahtjeva te tehničku specifikaciju. Također sadrži opise slučajeva korištenja te obilježja i ograničenja aplikacije.
 ## Djelokrug
-Aplikacije se izdaje pod imenom "SportsPlannerApp". Namijenjena je organizatorima događaja, voditeljima timova te natjecateljima. Gotov proizvod imati će: 
-1. Desktop aplikaciju namijenjenu organizatorima događaja, voditeljima timova te natjecateljima kojom će se kreirati, prijavljivati te voditi evidencija o događajima. 
+Aplikacije se izdaje pod imenom "SportsPlannerApp". Namijenjena je organizatorima događaja i voditeljima timova . Gotov proizvod imati će: 
+1. Desktop aplikaciju namijenjenu organizatorima događaja i voditeljima timovaa kojom će se kreirati, prijavljivati te voditi evidencija o događajima. 
 1. Bazu podataka kojoj se pristupa iz aplikacije
 ## Reference
 Referenca korištena za izradu ovog dokumenta: 
