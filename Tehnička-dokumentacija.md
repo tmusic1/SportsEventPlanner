@@ -76,6 +76,10 @@ Nakon što korisnik pokrene aplikaciju, prva što mora učiniti je prijaviti se 
 ![Dijagram aktivnosti Prijava](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/DAprijava.png)
 ### Dijagram slijeda - Prijava u sustav
 ![prijava dijagram slijeda](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/DijagramSlijedaPrijava.png)
+### Dijagram klasa - Prijava u sustav
+![prijava klasa prijava](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/DK_prijava.png)
+### ERA model - Prijava u sustav
+![era prijava](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/ERA_prijava.png)
 ## Funkcionalnost - Registracija u sustav
 ### Dijagram aktivnosti - Registracija u sustav
 ## Funkcionalnost - CRUD događaja
