@@ -111,7 +111,7 @@ Korisnik pritisne na gumb "pregled timova i natjecanja" u izborniku. Otvara se k
 ### Dijagram klasa- Pregled timova i natjecatelja
 ![](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/CDPregled.vpd.png)
 ### ERA dijagram - Pregled timova i natjecatelja
-![](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/ERA_Pregled.png)
+![](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/ERA_pregled.png)
 
 ## Funkcionalnost - Ispis statistike
 Kod statistike potrebno je odabrati točno određeno natjecanje za koje želimo pregledati statistiku. Imamo dvije mogućnosti gledanja statistike. prvi način pojedinačno po igračima i drugi način pojedinačno po timovima. U tom prikazu se prikazuje statistika svakog člana određenog tima koji u tom trenutku pregledavamo.
