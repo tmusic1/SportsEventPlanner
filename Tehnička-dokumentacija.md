@@ -125,3 +125,7 @@ Kod statistike potrebno je odabrati točno određeno natjecanje za koje želimo 
 Prilikom otvaranja bilo koje kontrole koja sadrži neki od DataGrid-ova za prikaz podataka pojavljuje se i TextBox polje gdje korisnik može kliknuti i upisati željenu riječ. Kada korisnik unosi slova u TextBox, tada se podaci u Datagridu filtriraju po riječi. Ako tražena riječ ne postoji u datagridu, tada datagrid postaje prazan, ali ako riječ ipak postoji u datagridu, tada se prikazuju sve riječi koje u sebi sadrže riječi ili slova koja su upisana u TextBox
 ### Dijagram aktivnosti - Tražilica
 ![Dijagram aktivnosti Tražilica](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/DAtrazilica.png)
+### Dijagram klasa - Tražilica
+![Dijagram klasa Tražilica](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/DK_trazilica.png)
+### ERA model - Tražilica
+![ERA model Tražilica](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/ERA_trazilica.png)
