@@ -126,6 +126,6 @@ Prilikom otvaranja bilo koje kontrole koja sadrži neki od DataGrid-ova za prika
 ### Dijagram aktivnosti - Tražilica
 ![Dijagram aktivnosti Tražilica](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/DAtrazilica.png)
 ### Dijagram klasa - Tražilica
-![Dijagram klasa Tražilica](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/DK_trazilica.png)
+![Dijagram klasa Tražilica](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/DK_trazilica.vpd.png)
 ### ERA model - Tražilica
 ![ERA model Tražilica](https://github.com/foivz/r20--aoletic-tmusic-dabramov1/blob/master/Dijagrami/ERA_trazilica.png)
